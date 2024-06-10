@@ -5,8 +5,8 @@ Adventuraxolotl
 :: StoryData
 {
   "ifid": "5E8B2AD2-8946-4442-83B7-61CAE89820D1",
-  "format": "Snowman",
-  "format-version": "2.0.2",
+  "format": "SugarCube",
+  "format-version": "2.36.1",
   "start": "Axo Intro",
   "zoom": 1
 }
