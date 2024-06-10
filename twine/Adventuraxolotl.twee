@@ -1,0 +1,109 @@
+:: Axo-Intro-catch
+You step forward, anticipating a fall. She stumbles for a bit, and loses her footing entirely. She falls into your awaiting arms, face-first. It’s not elegant. She’s light, and fragile. Her gills brush up against your back.
+
+You set her back on her feet. She brushes herself off and takes a deep breath.
+
+The moment feels like it lasts forever.
+She takes a couple breaths into your ear. You feel her relax a bit.
+She then extricates herself from you and stands up straight.
+She’s blushing.
+
+A-ah!
+You both tumble into a heap. It's quiet for a bit. You both stay still.
+Then you can feel her giggling into your shoulder.
+Standing up, she laughs and laughs with her face in her hands.
+You can't help but giggle too.
+
+Heh. Hahaha. Alright, let's get to business then.
+
+:: Axo-Intro {"position":"875,425","size":"100,100"}
+
+Today, you are beginning a new role in the amphibian kingdom. You've travelled from some distance away, and you may not be from here. But the kingdom calls for someone of your skills. You’re awaiting your first audience with Queen Axolotl. The guard calls you in.
+
+The throneroom is a lofty, well lit space. Arches made of marble are adorned with dangling glass pendants, holding up a ceiling built to look like a tranquil pond. 
+
+As you approach, she waits for you. The throne she's sitting on dwarfs her, it looks like a child seated on a dining chair.
+
+Seated on a throne that dwarfs her, the queen seems to be deep in thought. 
+
+You take a moment to examine your new employer. She’s wearing a simple white dress, but her gills are gilt with chains of pearl and glass ornamentation. She breathes softly, and mumbles underneath her breath.
+
+She startles.
+
+"O-oh, um, sorry, I didn’t see you there!" She hurriedly stands up, and quickly stamps down the dias her throne is elevated upon. She stumbles at the last step, sending her hurtling towards you.
+
+<div id="catch">
+<<link "catch her">><<replace #catch>><</replace>><</link>>
+<<link "don't">><<replace #catch>>
+
+She stumbles for a bit, leans forward, windmills her hands, and then eventually finds her footing. Is she pouting…?
+
+<</replace>><</link>>
+</div>
+:: Axo-Intro-Cont
+*ahem*. Let’s try that again. 
+
+"Greetings, I am Queen Axolotl. It is a pleasure to make your acquaintance. Tell me, what brings you to me on this fine day?"
+
+There’s a lot of issues in my kingdom, but the kind of help I need most right now is a diplomat and ambassador.
+I just can’t find the time to properly talk to all the other sovereigns.
+Your first job will be to introduce yourself to our closest trading partners: Herzog Frog and Baron Olm.
+Meet me back here tomorrow and I'll give you the details. For now, get some rest. I'll have the servants prepare quarters for you and get you acquainted with the complex.
+You're whisked away by a servant and given a tour of the complex.
+There are a couple amenities in the complex that you might be interested in. Would you like to spend some time getting used to them?
+You read something.
+You practise archery.
+You wander around.
+After spending the rest of your day exploring the complex, you're tired out. You go to sleep.
+Good morning! I hope you slept well.
+As we spoke yesterday, I'll have you introduce yourself to either Baron Olm or Herzog Frog.
+Which do you want to meet today?
+Oh, and before you go,
+Queen Axolotl rummages in a nearby drawer.
+Here. Your badge of station.
+Queen Axolotl presents a signet ring, with the seal of the Kingdom of Ambystoma printed on it. As you accept it, it's weighty and cold.
+Make a good first impression! You'll be my representative. It's an important job, and I need you to do it well.
+
+
+:: Axolotl Info {"position":"825,225","size":"100,100"}
+The Amphibian Kingdom is well... not a kingdom. Technically we're a class.
+De Jure, we're a federal electoral monarchy, with Sovereigns who collaboratively govern the realm via the Great Council.
+The elected monarch is more of a ceremonial position than anything else.
+Technically they control the federated armies and fleets during wartime, but really those are their own thing.
+Since my grandmother's rule, the Axolotl Kingdom has been the real power, bypassing the Great Council entirely.
+Many of the other Sovereigns have pledged alligeance to us, and are dependent on us for protection and trade.
+
+## Kingdom
+Since then, the Great Council has been kind of been taken over by old religiously fanatic toads.
+They make proclamations now and then but nobody really listens.
+It's still good to pay lip service to the Great Council though. They just weird me out.
+My grandmother was a visionary architect and urban designer. She designed this hall and planned our cities.
+When she took the throne, she developed a key relationship with the captains of industry.
+It ensured that our cities are the heartland of the Kingdom's economy. Since then, our advantage has only grown.
+The Federal Army and the Federal Fleet are technically under my control, but they have a strong loyalty to the stability of the Kingdom.
+Their recruits come from all over the Amphibian Kingdom, but consist mostly of Frogs and Toads.
+Commander Salamander heads the Army, and Captain Cicilian heads the Fleet. They butt heads from time to time, but work together well.
+Oh, me? I guess I can tell you a bit about myself.
+I'm the latest and greatest in a long long line of axolotl monarchs.
+My mother went missing, so I've had to take over running the kingdom.
+
+## Axo
+Was there anything specific you wanted to know about?
+Well, the kingdom is the best managed land around. We have the highest population density cities, a strong industry, and a booming economy.
+I just don't feel like anyone respects me. It's been a hassle trying to get everything running again.
+Gosh, I couldn't think of anything like that. Everything's been way too hectic.
+The Queen makes sure that nobody else is in the chamber, and comes closer to you.
+She whispers in your ear:
+{i}Everything.{/i}
+I'm afraid that the other Sovereigns are out to improve their lot with my mother gone.
+She was the peacebroker, and now I'm here instead. I wasn't built for this.
+Baron Olm is... difficult. He's a recluse and lives in a damp cave.
+Literally.
+The rest of the Amphibians at least get some sunlight now and then, but I've never seen the Baron at any function.
+I don't think he likes me very much.
+
+## Olm
+Anything else about the Baron?
+Yeah, you know. Barons of Industry. They make steel and stuff. It's what our kingdom is built upon.
+Well... I don't actually know all that much about the Baron myself. I know that he holes himself up in his... hole... and tinkers with technology. I can't understand it myself.
+Herzog Frog is... charming?

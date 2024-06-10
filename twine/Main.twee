@@ -1,0 +1,24 @@
+:: StoryTitle
+Adventuraxolotl
+
+:: StoryData
+{
+  "ifid": "5E8B2AD2-8946-4442-83B7-61CAE89820D1",
+  "format": "SugarCube",
+  "format-version": "2.36.1",
+  "zoom": 1
+}
+
+:: Start
+[[ New Game | Axo-Intro ]]
+<<button "Load Game">><<run UI.saves()>><</button>>
+<<button "Options">><</button>>
+<<button "Add Tim Tam">><</button>>
+
+<a href="../adventuraxolotl">Quit</a>
+
+:: Credits {"position":"1375,425","size":"100,100"}
+Axolotl, Frog, Olm sprites and backgrounds: Naroxtica
+Newt, Toad sprites and backgrounds: Frederico
+UI Design, Ideas: Oliver Lugg
+Fluffing a Duck, Wallpaper, Cipher by Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/

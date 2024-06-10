@@ -1,0 +1,22 @@
+{
+  "files.exclude": {
+    "**/*.rpyc": true,
+    "**/*.rpa": true,
+    "**/*.rpymc": true,
+    "**/cache/": true
+  },
+  "editor.wordWrapColumn": 120,
+  "editor.rulers": [
+    120
+  ],
+    "[twee3-sugarcube-2]": {
+        "editor.rulers": [120],
+        "editor.wordWrapColumn": 120,
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.semanticHighlighting.enabled": true,
+        "editor.fontFamily": "sans-serif"
+    },
+    "twee3LanguageTools.storyformat.current": "sugarcube-2",
+    "twee3LanguageTools.passage.list": true,
+
+}
