@@ -1,0 +1,282 @@
+:: StoryTitle
+Adventuraxolotl
+
+
+:: StoryData
+{
+  "ifid": "5E8B2AD2-8946-4442-83B7-61CAE89820D1",
+  "format": "Snowman",
+  "format-version": "2.0.2",
+  "start": "Axo Intro",
+  "zoom": 1
+}
+
+
+:: Axo Intro {"position":"875,425","size":"100,100"}
+Today, you are beginning your work in the amphibian kingdom. It’s been a long journey, but now it is time to work.
+
+You’re awaiting your first audience with Queen Axolotl. The guard calls you in.
+
+The throneroom is a lofty, well lit space. Arches made of marble are adorned with dangling glass pendants, holding up a ceiling built to look like a tranquil pond.
+
+Seated on a throne, the queen seems to be deep in thought.
+
+As you walk up, the sound of your boots striking the bare tiled floor echoes across the chamber.
+
+Now at what feels to be the correct distance, you stand in front of her. She’s wearing a simple white dress, but her gills are gilt with chains of pearl and glass ornamentation.
+
+She breathes softly, and mumbles underneath her breath. Her eyes are closed. She doesn’t stir.
+
+…taxes…
+
+*snore*
+She startles.
+O-oh, um, sorry, I didn’t see you there!
+She hurriedly stands up, and quickly stamps down the dias her throne is elevated upon.
+She stumbles at the last step, sending her hurtling towards you.
+Before she falls further, she grabs your arm and steadies herself. You make eye contact. She looks tired.
+Her eyes look irritated, there are discolourations underneath them, and her hand feels clammy and hot.
+She gives you a slight smile, then straightens up.
+You step forward, anticipating a fall. She stumbles for a bit, and loses her footing entirely.
+She falls into your awaiting arms, face-first. It’s not elegant.
+She’s light, and fragile. Her gills brush up against your back.
+You set her back on her feet. She brushes herself off and takes a deep breath.
+The moment feels like it lasts forever.
+She takes a couple breaths into your ear. You feel her relax a bit.
+She then extricates herself from you and stands up straight.
+She’s blushing.
+A-ah!
+You both tumble into a heap. It's quiet for a bit. You both stay still.
+Then you can feel her giggling into your shoulder.
+Standing up, she laughs and laughs with her face in her hands.
+You can't help but giggle too.
+Heh. Hahaha. Alright, let's get to business then.
+She stumbles for a bit, leans forward, windmills her hands, and then eventually finds her footing.
+Is she pouting a bit…?
+*ahem*. Let’s try that again. Greetings, I am Queen Axolotl. It is a pleasure to make your acquaintance.
+Tell me, what brings you to me on this fine day?
+You're hired. You start tomorrow.
+There’s a lot of issues in my kingdom, but the kind of help I need most right now is a diplomat and ambassador.
+I just can’t find the time to properly talk to all the other sovereigns.
+Your first job will be to introduce yourself to our closest trading partners: Herzog Frog and Baron Olm.
+Meet me back here tomorrow and I'll give you the details. For now, get some rest. I'll have the servants prepare quarters for you and get you acquainted with the complex.
+You're whisked away by a servant and given a tour of the complex.
+There are a couple amenities in the complex that you might be interested in. Would you like to spend some time getting used to them?
+You read something.
+You practise archery.
+You wander around.
+After spending the rest of your day exploring the complex, you're tired out. You go to sleep.
+Good morning! I hope you slept well.
+As we spoke yesterday, I'll have you introduce yourself to either Baron Olm or Herzog Frog.
+Which do you want to meet today?
+Oh, and before you go,
+Queen Axolotl rummages in a nearby drawer.
+Here. Your badge of station.
+Queen Axolotl presents a signet ring, with the seal of the Kingdom of Ambystoma printed on it. As you accept it, it's weighty and cold.
+Make a good first impression! You'll be my representative. It's an important job, and I need you to do it well.
+
+
+:: Axolotl Info {"position":"825,225","size":"100,100"}
+The Amphibian Kingdom is well... not a kingdom. Technically we're a class.
+De Jure, we're a federal electoral monarchy, with Sovereigns who collaboratively govern the realm via the Great Council.
+The elected monarch is more of a ceremonial position than anything else.
+Technically they control the federated armies and fleets during wartime, but really those are their own thing.
+Since my grandmother's rule, the Axolotl Kingdom has been the real power, bypassing the Great Council entirely.
+Many of the other Sovereigns have pledged alligeance to us, and are dependent on us for protection and trade.
+
+## Kingdom
+Since then, the Great Council has been kind of been taken over by old religiously fanatic toads.
+They make proclamations now and then but nobody really listens.
+It's still good to pay lip service to the Great Council though. They just weird me out.
+My grandmother was a visionary architect and urban designer. She designed this hall and planned our cities.
+When she took the throne, she developed a key relationship with the captains of industry.
+It ensured that our cities are the heartland of the Kingdom's economy. Since then, our advantage has only grown.
+The Federal Army and the Federal Fleet are technically under my control, but they have a strong loyalty to the stability of the Kingdom.
+Their recruits come from all over the Amphibian Kingdom, but consist mostly of Frogs and Toads.
+Commander Salamander heads the Army, and Captain Cicilian heads the Fleet. They butt heads from time to time, but work together well.
+Oh, me? I guess I can tell you a bit about myself.
+I'm the latest and greatest in a long long line of axolotl monarchs.
+My mother went missing, so I've had to take over running the kingdom.
+
+## Axo
+Was there anything specific you wanted to know about?
+Well, the kingdom is the best managed land around. We have the highest population density cities, a strong industry, and a booming economy.
+I just don't feel like anyone respects me. It's been a hassle trying to get everything running again.
+Gosh, I couldn't think of anything like that. Everything's been way too hectic.
+The Queen makes sure that nobody else is in the chamber, and comes closer to you.
+She whispers in your ear:
+{i}Everything.{/i}
+I'm afraid that the other Sovereigns are out to improve their lot with my mother gone.
+She was the peacebroker, and now I'm here instead. I wasn't built for this.
+Baron Olm is... difficult. He's a recluse and lives in a damp cave.
+Literally.
+The rest of the Amphibians at least get some sunlight now and then, but I've never seen the Baron at any function.
+I don't think he likes me very much.
+
+## Olm
+Anything else about the Baron?
+Yeah, you know. Barons of Industry. They make steel and stuff. It's what our kingdom is built upon.
+Well... I don't actually know all that much about the Baron myself. I know that he holes himself up in his... hole... and tinkers with technology. I can't understand it myself.
+Herzog Frog is... charming?
+
+
+
+
+
+:: Credits {"position":"1375,425","size":"100,100"}
+Axolotl, Frog, Olm sprites and backgrounds: Naroxtica
+Newt, Toad sprites and backgrounds: Frederico
+UI Design, Ideas: Oliver Lugg
+Fluffing a Duck, Wallpaper, Cipher by Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+
+
+:: Frog Imports {"position":"1200,175","size":"100,100"}
+You say that the trade deal is up for renegociation?
+I'll be the judge of that.
+...
+...
+...
+The Frog appears to be deep in thought.
+...
+...
+...
+...
+Ambassador of the Axolotl.
+It is a good tiding that you are here today, for I was about to send a representative to re-negociate the trade deal between the Kingdom of Ambystoma and the Anura Duchy.
+As the host, I would like to offer you the chance to make the first offer.
+No, absolutely not.
+Perhaps.
+Perhaps.
+Okay.
+I am raising import tax by 4%. Ribbit.
+blah
+blah
+blah
+
+
+:: Frog Intro {"position":"1050,300","size":"100,100"}
+You're packed into a caravan and taken to Herzog Frog's Duchy.
+As you approach the gates to the castle, a booming voice echoes across the scenery.
+{size=[text_size.larger]}Halt!{/size}
+You look around in surprise. What was that? You spot a small frog standing next to the gates. Surely it couldn't be?
+I am Squire Spring Peeper, doorman of this castle!
+The frog peeps up at you. The squeaky, high-pitched voice was nothing like the voice before, but you have no choice but to conclude that they are the same source.
+You have arrived at the abode of Herzog Frog, highest Frog in the realm! State your business!
+The frog stares at you, incredulous.
+The Queen sent you...? We weren't told of any such visit.
+A trade deal...? Hmm...
+I suppose that should be alright.
+The frog doesn't seem completely convinced.
+Well... okay...
+I can take you into see His Grace, but I'll need to pat you down first.
+Peeper professionally pats your person for potentially powerful pikes, pistols, or pocketknives.
+He finds nothing.
+Follow me closely, I'll escort you.
+Peeper looks a bit unhappy.
+Job'? This isn't just a job! This is my life's calling!
+Herzog is one of my distant uncles, and when he put out a call for wards, my father sent me off from the cold frontier lands.
+Since, I've been under his tutelage as a squire.
+It's been months, now. He's taught me everything I know.
+Peeper looks proud.
+Anura specialty! His Grace says that my croak is the second-best he's ever heard. After him, of course.
+That's part of why I became his herald and doorman. I can call the rest of the castle to attention if something goes wrong.
+Hey, do you want me to do it again?
+{size=[text_size.larger]} Halt! {/size}
+Did you like it?
+Peeper beams with pride.
+Oh... okay...
+Well, first thing you should know is he's really good at leadership, chess, stand-up comedy, public speaking, administration, warfare, mock warfare, checkers, dueling, fencing, architecture, urban planning, hugging, telling when someone is lying, jumping, croaking, playing dead, knitting, cartography, singing, dancing, embroidery, art, wood carving, masonry, music, composition, calligraphy, tracking and hunting, cooking, swimming, holding his breath for a really long time, organization, gymnastics, yoga, meditation, philosophy
+He likes being called His Grace, or Your Grace. You should try to stick to those.
+And he {i}loves{/i} being complimented. Just don't call him cute. He really hates that.
+You walk in silence.
+Peeper vibrates awkwardly, seeming to want to gush about something or someone.
+He thinks better of it.
+Peeper arrives at a door and knocks on it with this peculiar pattern.
+His Grace will be ready soon.
+Peeper stands to attention. He seems nervous and jittery.
+No problem. It's what I'm here for.
+Of course! I'm always glad to tell someone of the brilliance of the great Duke Herzog!
+The squire blushes and stammers.
+u-um...
+A few awkward moments pass. Peeper looks straight ahead.
+You hear a little bell from the room beyond him.
+uh, his Grav-{nw}
+I-I mean, h-His Grace.
+His Grace is ready for you now.
+You can go.
+Oh, that means His Grace is ready. Go on in, don't keep him waiting.
+Peeper opens the door for you and waves you in.
+...Ribbit.
+Never call me that. Ever again. Ribbit.
+I need not explain myself to a commoner. Ribbit.
+As you should be. The correct form of address to a Duke is "Your Grace. Ribbit.
+O-hoh! A commoner with manners! How intriguing. Ribbit.
+I will allow you to try again. Do keep in mind what I have told you. Ribbit.
+blah
+blah
+blah
+blah
+yes... yes, good. Now it is your turn. Ribbit.
+So, there's a man crawling through the desert.
+...Wait! The sun was setting! That meant he was going to have to spend another night out here! Arrrgh!
+Wow, 167 years. That's almost 140 more years I'll live if I live as long. Do you know what he died of, Nate?
+Better Nate than lever!, he ran over the snake.
+...
+{size=[_return.what_size]}[_return.string]{/size}
+Sentiment: [_return.sentiment.pog - _return.sentiment.neg]
+I am Herzog Frog. My power is unmatched. All those who dare to betray me will taste destruction. Ribbit.
+You have recognized my mightyness and greatness. Good. Ribbit.
+Humility is a virtue most valuable in these realms. It will serve you well.
+Oh, is that so? I accept! I have more wit than any other amphibian. I'll start. Knock knock. Ribbit.
+Frog. Ribbit.
+I frog-ot to tell you I'm a prince in waiting. Haha. Ribbit.
+I frog-ot to tell you I'm a prince in waiting. Haha. Ribbit.
+...Ribbit.
+Blah
+How about a bout of archery?
+Surprisingly, Herzog Frog is quite good at archery.
+Using his hind legs, there is some measure of power and grace.
+Your technique is interesting. I've never quite seen anyone use a bow like that. Ribbit.
+I've developed this technique myself. I can confidently say that I'm the best archer ever. Ribbit.
+You're neck to neck. Herzog Frog lands a shot that pulls him ahead of you.
+You bring your queen out within the first three moves.
+Herzog Frog sees through your scholar's mate, and calmly closes up his position.
+You get to the middle game without any material advantage, but Herzog Frog's position is practically impenetrable.
+You play - and Herzog Frog appears irritated.
+You lose.
+
+
+:: Newt Olm {"position":"1075,600","size":"100,100"}
+The Queen gives you directions to the OIm's home. It's quite a distance away from anything else.
+Eventually you arrive at what you think is the right spot. There's absolutely nothing around, though.
+You there! I haven't seen you around before. How do you do?
+Anyway, now with pleasantries out of the way, you look like the sort of chap that looks like they want to see Baron Olm. Would that be right?
+I thought so. Well, come along with me now, I'll get you there in one piece.
+Countess Newt tromps through the swamp, eventually reaching a pier with a small rowboat.
+Newt gets into the front of the boat.
+Hop to it now! I haven't got all day! I'll navigate, you drive.
+I found this rowboat, and have just been looking around for someone to row it! Now you've come along, so you're a perfect fit.
+Newt navigates through the mangrove and into a cave. At the end of the long tunnel, you reach a dry landing, with a built stone wall and a solid wooden door.
+Newt disembarks and knocks on the door.
+Hello? Olmyy!
+No response. No problem, I have a spare key.
+Newt opens the door.
+Come, come, warm yourself in the living room. Olm isn't the biggest one for niceties, but I absolutely *insisted* that he install a fireplace. Firewood's over there, here's a poker. Enjoy!
+Before you get the chance to interrupt, Newt practically flies across the room. She knocks on another door, and opens it. Just before entering, she turns back to you:
+I'll be quick, Darl. I'll let Olm know you're waiting.
+Newt exits the chamber, and waves you in.
+It's dark. Your eyes adjust to the cave.
+Hello.
+Now, why is an outsider to the kingdom inside my innermost chamber...?
+Yes, yes. Newt let you in. I don't know why she did that. But please, make it quick. I have many more important things to tend to than... whatever this is.
+Olm gestures in your general direction.
+Oh? The mining exports are of low-quality? That's unfortunate, isn't it?
+The reality of the situation is, that ore is still the greatest quality available. We can't exactly mine pure steel out of the ground. The vein gives eventually.
+No. No, there is nothing to talk about here. Neither I nor the Queen have the agency to change the simple fact that there is not enough. I propose that you simply go back to her, and let her be a bit sad for a bit. I'm certain she'll get over it.
+If you can't handle that, I *can* offer a work around.
+Herzog's territory is relatively rich in mineral wealth. However, the fool has declined every opportunity to exploit it. I propose this:
+Olm procures a small sphere, split in two halves, and rolls it to you.
+This is a 'dowsing' drone. All you have to do is spin the two halves against each other to activate it in Herzog's territory. It will do the rest.
+If you can do this for me, I can promise the Queen that the ores she receives will be of renewed high quality within the next two weeks.
+That is not acceptable. Try harder.
+You are dreaming. Please wake up.

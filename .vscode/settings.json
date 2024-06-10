@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/*.rpyc": true,
+    "**/*.rpa": true,
+    "**/*.rpymc": true,
+    "**/cache/": true
+  },
+  "editor.wordWrapColumn": 120,
+  "editor.rulers": [
+    120
+  ],
+  "twee3LanguageTools.storyformat.current": "snowman-2",
+  "twee3LanguageTools.passage.list": true
+}
