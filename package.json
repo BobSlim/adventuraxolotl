@@ -3,9 +3,9 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "twee": "tweego --output src/pages/game.html twine/Adventuraxolotl.twee",
+    "twee": "tweego --output src/pages/game.html twine",
     "dev:astro": "astro dev",
-    "dev:twee": "npm run twee -- --watch",
+    "dev:twee": "npm run twee -- --watch --test",
     "dev": "run-p dev:astro dev:twee",
     "prebuild": "npm run twee",
     "build": "astro check && astro build",

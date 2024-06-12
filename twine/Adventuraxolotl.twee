@@ -7,11 +7,16 @@ Adventuraxolotl
   "ifid": "5E8B2AD2-8946-4442-83B7-61CAE89820D1",
   "format": "SugarCube",
   "format-version": "2.36.1",
-  "start": "Axo Intro",
   "zoom": 1
 }
 
+:: Start
+[[ New Game | Axo Intro ]]
+<<button "Load Game">><<run UI.saves()>><</button>>
+<<button "Options">><</button>>
+<<button "Add Tim Tam">><</button>>
 
+<a href="../adventuraxolotl">Quit</a>
 :: Axo Intro {"position":"875,425","size":"100,100"}
 Today, you are beginning your work in the amphibian kingdom. It’s been a long journey, but now it is time to work.
 
