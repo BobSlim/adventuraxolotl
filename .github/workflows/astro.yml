@@ -66,6 +66,10 @@ jobs:
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
         working-directory: ${{ env.BUILD_PATH }}
+      - uses: jaxxstorm/action-install-gh-release@v1.10.0 
+        with:
+            repo: tmedwards/tweego
+            chmod: 0775
       - name: Build with Astro
         run: npm run build
         working-directory: ${{ env.BUILD_PATH }}
