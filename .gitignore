@@ -1,3 +1,6 @@
+game.html
+
+
 # build output
 dist/
 
@@ -48,4 +51,3 @@ log.txt
 errors.txt
 traceback.txt
 files.txt
-src/pages/game.html

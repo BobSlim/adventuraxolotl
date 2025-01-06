@@ -58,3 +58,7 @@ This project is a fan-made version of Adventuraxolotl, as shown in Oliver Luggâ€
 Project Vision: to realise the game as presented in the video.
 ## Contribution Guide
 Check out the issues tab of this repo. If you have no programming prowess, you can always write dialogue.
+
+
+# Installing tweego
+https://github.com/ChapelR/tweego-setup/blob/tweego-2/docs/installing-tweego.md
